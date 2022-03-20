@@ -6,7 +6,7 @@
 
 **If you are also strugling and trying to learn somthing new then,**
 
-* Follow me if you like
+* Follow me if you like [GitHub](https://github.com/KGalogre)
 * You are wellcome to watch my repository
 * Be kind
 
