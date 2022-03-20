@@ -9,3 +9,5 @@
 * Follow me if you like [GitHub](https://github.com/KGalogre)
 * You are wellcome to watch my repository
 * Be kind 😇 😁
+
+*Also you are can visit my [stats220 website](https://github.com/KGalogre/stats220/blob/main/index.md#hello)🌷
