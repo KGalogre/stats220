@@ -8,6 +8,4 @@
 
 * Follow me if you like [GitHub](https://github.com/KGalogre)
 * You are wellcome to watch my repository
-* Be kind
-
-
+* Be kind 😇 😁
