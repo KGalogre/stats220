@@ -6,8 +6,8 @@
 
 **If you are also strugling and trying to learn somthing new then**
    
-     * Follow me
-     * You are wellcome to watch my repository
-     * Be kind
+     1.Follow me
+     2. You are wellcome to watch my repository
+     3. Be kind
 
 ### test 3
