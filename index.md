@@ -24,6 +24,7 @@ You can see a meme I made using the R package [magick](https://cran.r-project.or
 
 ```r
 
+# creating squares for meme
 friend_dog <- image_read("https://cdn.pixabay.com/photo/2020/04/22/19/39/dog-5079775_1280.jpg") %>%
     image_scale(250) %>%
     image_shadow(bg = "#0000ff")
@@ -34,6 +35,8 @@ happy_flower <- image_read("https://cdn.pixabay.com/photo/2022/02/22/03/22/passi
    image_scale(250) %>%
    image_shadow(bg = "#00b300")
 
+
+#creating blank squares with text
 look_text <- image_blank(width = 250, 
                           height = 250, 
                           color = "#00ffff") %>%
@@ -76,7 +79,9 @@ ib_text <- image_blank(width = 250,
                  size = 30,
                  font = "Bold",
                  gravity = "south")
-              
+ 
+
+# creating a vector to make it work together            
 first_row <- c(friend_dog, look_text) %>%
   image_append()
   
@@ -90,10 +95,8 @@ meme = c(first_row, second_row, third_row) %>%
   image_append(stack = TRUE)
 
 
+#saving meme as a image
 image_write(meme, "my_meme.png")
 
-```
 
-
-
-
+``` 
