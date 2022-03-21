@@ -6,6 +6,10 @@
 
 My name is Katya and I like to learn new things so that is why I am here.
 
+### Also I would like to develope my coding skills
+
+
+
 **And now I am learning how to create memes!**
 
 You can see a meme I made using the R package [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
