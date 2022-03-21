@@ -1,6 +1,6 @@
-# stats220
+# stats 220
 
-**This is my stats220 repo.**
+**This is my stats 220 repo.**
 
 *I would like to share here what I am learning during my stats220 course.*
 
