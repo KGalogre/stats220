@@ -103,7 +103,7 @@ meme = c(first_row, second_row, third_row) %>%
   image_append(stack = TRUE)
 
 
-#saving meme as a image
+#saving meme as an image
 image_write(meme, "my_meme.png")
 
 
