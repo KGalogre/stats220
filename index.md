@@ -7,7 +7,7 @@
 My name is Katya and I like to learn new things so that is why I am here.
 
 
-### Also I would like to develope my coding skills
+### Also I would like to develop my coding skills
 
 
 
